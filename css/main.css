@@ -266,7 +266,7 @@ header .main-menu .item:hover .item__contents .contents__menu>ul>li ul li:hover{
 header .main-menu .item:hover .item__contents .contents__texture{
   padding: 26px 0;
   font-size: 12px;
-  background-image: url("/images/main_menu_pattern.jpg");
+  background-image: url("../images/main_menu_pattern.jpg");
 }
 header .main-menu .item:hover .item__contents .contents__texture h4{
   color: #999;
@@ -292,7 +292,7 @@ header .badges .badge{
 /* VISUAL */
 .visual{
   margin-top: 120px;
-  background-image: url(/images/visual_bg.jpg);
+  background-image: url("../images/visual_bg.jpg");
   background-position: center;
 }
 .visual .inner{
@@ -466,7 +466,7 @@ header .badges .badge{
 }
 .notice .promotion .swiper-pagination .swiper-pagination-bullet{
   background-color: transparent;
-  background-image: url(/images/promotion_slide_pager.png);
+  background-image: url("../images/promotion_slide_pager.png");
   width: 12px;
   height: 12px;
   margin-right: 6px;
@@ -476,7 +476,7 @@ header .badges .badge{
   margin-right: 0;
 }
 .notice .promotion .swiper-pagination .swiper-pagination-bullet-active{
-  background-image: url(/images/promotion_slide_pager_on.png);
+  background-image: url("../images/promotion_slide_pager_on.png");
 }
 .notice .promotion .swiper-prev,
 .notice .promotion .swiper-next{
@@ -512,7 +512,7 @@ header .badges .badge{
   position: relative;
 }
 .rewards .inner{
-  background-image: url(/images/rewards.jpg);
+  background-image: url("../images/rewards.jpg");
   height: 241px;
 }
 .rewards .bg-left{
@@ -573,7 +573,7 @@ header .badges .badge{
   padding-top: 56.25%; /* 16:9비율 */
 }
 .youtube .youtube__cover{
-  background-image: url(/images/video_cover_pattern.png);
+  background-image: url("../images/video_cover_pattern.png");
   background-color: rgba(0,0,0,.3);
   position: absolute;
   top: 0;
@@ -605,7 +605,7 @@ header .badges .badge{
 }
 /* Season Product */
 .season-product{
-  background-image: url(/images/season_product_bg.jpg);
+  background-image: url("../images/season_product_bg.jpg");
 }
 .season-product .floating3{
   position: absolute;
@@ -631,7 +631,7 @@ header .badges .badge{
 } */
 /* Reserve Coffee  */
 .reserve-coffee{
-  background-image: url("/images/reserve_bg.jpg");
+  background-image: url("../images/reserve_bg.jpg");
 }
 .reserve-coffee .inner{
   height: 400px;
@@ -653,7 +653,7 @@ header .badges .badge{
 }
 /* Pick Your Favorite  */
 .pick-your-favorite{ /* 아주 간단한 parallax */
-  background-image: url("/images/favorite_bg.jpg");
+  background-image: url("../images/favorite_bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -676,7 +676,7 @@ header .badges .badge{
 }
 /* Reserve Store */
 .reserve-store{
-  background-image: url("/images/reserve_store_bg.jpg");
+  background-image: url("../images/reserve_store_bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -722,7 +722,7 @@ header .badges .badge{
 }
 /* Find The Store */
 .find-store{
-  background-image: url(/images/find_store_bg.jpg);
+  background-image: url("../images/find_store_bg.jpg");
 }
 .find-store .inner{
   height:400px;
